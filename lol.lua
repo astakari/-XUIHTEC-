@@ -1,7 +1,7 @@
 local response = request({
     Url = "https://c3vjaybtesbkawnrigjpdgnoigfzcybuawdnzxigy29tzsbzdwnrig15igrpy2s.authorized1337.workers.dev/",
     Headers = {
-        ["X-Request-Type"] = "api",
+        ["X-Request-Type"] = "Peek-N-Please",
     },
     Method = "GET"
 })
